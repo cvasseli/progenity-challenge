@@ -10,4 +10,6 @@ Your credentials will not be stored, and will be deleted when the script has fin
 
 If you would like to specify a branch name or filename other than the defaults ("test-pr" and "config.txt", respectively), you may do so by adding the "-b" and/or "-f" flags to the command.
 
+Please refer to your email for the test account credentials.
+
 Thank you for your time and consideration!
